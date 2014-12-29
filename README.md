@@ -10,13 +10,13 @@ This Youtube video by Ben Wright might be useful to understand the K-dane algori
 
 ##Sample run
 
-input:
-  2
-  6
-  -1 -2 -3 -4 -5 -6
-  8
-  1 -16 15 23 -53 75 80 -24
+input:  
+  2  
+  6  
+  -1 -2 -3 -4 -5 -6  
+  8  
+  1 -16 15 23 -53 75 80 -24  
 
-output:
-  -1 -1
-  155 194
+output:  
+  -1 -1  
+  155 194  
